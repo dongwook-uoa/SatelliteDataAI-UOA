@@ -209,3 +209,9 @@ __marimo__/
 
 # MacOS
 .DS_Store
+
+# Cursor
+.cursor/
+
+# Lab datasets (large local downloads)
+Lab-Notebooks/datasets/
