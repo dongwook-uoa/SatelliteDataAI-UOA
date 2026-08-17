@@ -1,8 +1,6 @@
 """Shared Earth Engine / figure helpers for Lab 2 and Exercise 6 notebooks.
 
-Functions mirror the definitions used in ``761_Lab2_ans.ipynb`` so both the
-main lab notebook and the standalone Exercise 6 notebook can import the same
-implementations.
+Functions mirror the definitions used in Labs, so both the main lab notebook and the standalone Exercise 6 notebook can import the same implementations.
 """
 
 from __future__ import annotations
@@ -141,7 +139,7 @@ def add_north_arrow(ax, location=(0.92, 0.86), size=0.07, fontsize=11):
 
 
 # ---------------------------------------------------------------------------
-# LCDB v5.0 labels and colours (shared by Lab 2 Exercise 6)
+# LCDB v5.0/v6.0 labels and colours (shared by Lab 2 Exercise 6)
 # ---------------------------------------------------------------------------
 
 # From lcdb-classes-at-version5.pdf (short names)
